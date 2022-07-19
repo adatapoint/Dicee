@@ -3,7 +3,7 @@
 //  Dicee
 //
 //  Created by Vincent Restrepo on 5/14/19.
-//  Copyright © 2019 Vincent Restrepo. All rights reserved.
+//  Copyright © 2019 Vincent Restrepo. All rights reserved. Muy reserverd!!!
 //
 
 import UIKit
